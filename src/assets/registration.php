@@ -1,5 +1,5 @@
-<?php include '../assets/header.php'; ?>
-<?php include '../assets/navbar.php'; ?>
+<?php include '../assets/index/header.php'; ?>
+<?php include '../assets/index/navbar.php'; ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -15,7 +15,7 @@
 
 <h1>Registration</h1>
 
-<form action="save_to_excel.php" method="POST" class="registration-form">
+<form action="../assets/save_to_excel.php" method="POST" class="registration-form">
     <div class="form-group">
         <label for="firstname">First Name:</label>
         <input type="text" id="firstname" name="firstname" required>
