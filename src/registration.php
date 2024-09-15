@@ -1,5 +1,5 @@
-<?php include 'header.php'; ?>
-<?php include 'navbar.php'; ?>
+<?php include '../assets/header.php'; ?>
+<?php include '../assets/navbar.php'; ?>
 
 <!DOCTYPE html>
 <html lang="en">
