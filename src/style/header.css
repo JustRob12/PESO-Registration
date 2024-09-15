@@ -1,0 +1,25 @@
+/* styles.css */
+
+.main-header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 20px;
+    background-color: #bb0df0; /* Orange background */
+    color: white;
+}
+
+.logo {
+    margin-right: 20px;
+}
+
+.logo-image {
+    width: 80px; /* Adjust the logo size as needed */
+    height: auto;
+}
+
+.header-text h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+}
